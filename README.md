@@ -20,7 +20,7 @@
 git clone https://www.example.com
 ```
 
-- [Download the latest release source](https://www.example.com)
+- [Download the latest release](https://www.example.com)
 - [Download the latest unity package from Unity Asset Store](https://www.example.com)
 
 ### Contribute
