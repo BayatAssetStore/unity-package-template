@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bayat Forums
+    url: https://forums.bayat.io
+    about: Please ask and answer questions here.
+  - name: Bayat Open Source
+    url: mailto:opensource@bayat.io
+    about: Please ask and answer questions here.
+  - name: Bayat Support
+    url: mailto:support@bayat.io
+    about: Please ask and answer questions here.
