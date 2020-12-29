@@ -25,7 +25,7 @@ git clone https://www.example.com
 
 ### Contribute
 
->> We’re excited that you’re interested in contributing! Take a moment to read `CONTRIBUTING.md`.
+>> We’re excited that you’re interested in contributing! Take a moment to read [`CONTRIBUTING.md`](contribute).
 Launch the project using the Unity {Required Unity Version} and start contributing!
 
 ## License
