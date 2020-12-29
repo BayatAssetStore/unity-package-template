@@ -10,7 +10,7 @@
 
 ### Prerequisites
 
-- Unity {Required Unity Version}
+- Unity 2019.4
 
 ### Download
 
@@ -27,7 +27,7 @@ git clone https://www.example.com
 
 > We’re excited that you’re interested in contributing! Take a moment to read [`CONTRIBUTING.md`](contribute).
 
-Launch the project using the Unity {Required Unity Version} and start contributing!
+Launch the project using the Unity 2019.4 and start contributing!
 
 ## License
 
